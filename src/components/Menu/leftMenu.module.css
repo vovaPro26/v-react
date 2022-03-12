@@ -1,0 +1,34 @@
+.leftMenu div {
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+}
+
+.leftMenu {
+    grid-area: right-menu;
+    background-color: burlywood;
+    border-radius: 5px;
+    padding: 7px;
+    margin-left: 0.5em;
+}
+
+.leftMenuItem {
+    color: white;
+   
+}
+
+.leftMenu a {
+    text-decoration: none;
+}
+
+.leftMenuItem:hover {
+    color: black;
+}
+
+.leftMenuItem:active {
+    color: red;
+}
+
+.leftMenuItem_Active  {
+    color: mediumvioletred;
+}

@@ -1,0 +1,44 @@
+.dialogs {
+}
+
+.dialogs_content {
+    display: grid;
+      grid-template-columns: 2fr 10fr;
+      padding: 1em;  
+}
+
+.dialog_Active{
+    color: magenta;
+}
+
+.line {
+}
+
+.dialog {
+
+}
+
+.messege{}
+
+
+
+
+/* display: flex;
+flex-direction: column;
+margin-right: 1em; */
+
+/* display: flex;
+margin-top: 1em;
+margin-left: 1em;
+flex-direction: row; */
+/* margin-right: 1em;
+width: 4px;
+background-color: green; */
+
+
+
+
+
+
+
+

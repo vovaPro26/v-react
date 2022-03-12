@@ -1,0 +1,11 @@
+.mainContent img {
+    /* display: flex; */
+    border-radius: 5px;
+    
+}
+
+.rushaGoAway {
+    width: 100%;
+    background-color: red;
+    border-radius: 5px;
+}
