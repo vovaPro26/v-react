@@ -4,9 +4,9 @@
 }
 
 .user{
-    background-color: indianred;
+    background-color: #aaddaabd;
     border-radius: 5px;
-    margin: 20px;
+    margin-bottom: 20px;
     width: auto;
     height: 100%;
 }
@@ -19,4 +19,38 @@
 
 .users{
     overflow: hidden;
+}
+
+.getUsersButton{
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3em;
+    width: 10em;
+    background-color: lightgreen;
+    top: -7px;
+    box-shadow: 0 2px 0 0;
+    
+}
+
+.getUsersButtonDiv{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.getUsersButton:hover {
+    top: -10px;
+    margin-top: -2px;
+    margin-bottom: 2px;
+    box-shadow: 2px 4px 0 0;
+}
+
+.getUsersButton:active {
+    margin-top: 1px;
+    margin-bottom: -1px;
+    top: -7px;
+    box-shadow: 0 2px 0 0;
 }

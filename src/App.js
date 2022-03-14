@@ -8,7 +8,7 @@ import MainContent from 'components/MainContent/MainContent';
 import Components from 'components/Menu/leftMenu';
 
 import './App.css';
-import Users from 'components/Users/Users';
+import Users from 'components/Users/UsersC';
 import UsersConteiner from 'components/Users/UsersConteiner';
 
 function App(props) {

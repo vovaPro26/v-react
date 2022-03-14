@@ -12,7 +12,7 @@ body {
 
 .centrContent{
     grid-area: main-content;
-    background-color: aqua;   
+    /* background-color: #FAFAFA;    */
     margin-right: 0.5em;
     border-radius: 5px;
 }

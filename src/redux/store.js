@@ -9,7 +9,7 @@ export const UNFOLLOW = "UNFOLLOW"
 
 export const UPDATE_NEW_MESSAGES_TEXT = "UPDATE_NEW_MESSAGES_TEXT"
 export const SEND_MESSAGES = "SEND_MESSAGES"
-export const SET_USERS = "SEND_MESSAGES"
+export const SET_USERS = "SET_USERS"
 
 
 

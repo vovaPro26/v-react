@@ -11,6 +11,7 @@ function Components() {
     const menuItems = [
         { name: "Profile", link: "profile" },
         { name: "Messages", link: "messages" },
+        { name: "Users", link: "users" },
         { name: "News", link: "news" },
         { name: "Music", link: "music" },
         { name: "Settings", link: 'settings' },
