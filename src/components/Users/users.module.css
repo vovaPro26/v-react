@@ -54,3 +54,7 @@
     top: -7px;
     box-shadow: 0 2px 0 0;
 }
+
+.selectedPage {
+    font-weight: bold;
+}

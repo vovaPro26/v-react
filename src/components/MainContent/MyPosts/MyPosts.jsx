@@ -27,7 +27,7 @@ function MyPosts(props) {
             <button onClick={onAddPost}>Add post</button>
             {props.posts.map((n, i) => {
                 return (
-                        <Post key={i} post={n}/>   
+                        <Post picture={props.picture} key={i} post={n}/>   
                 )}
             )
             }
